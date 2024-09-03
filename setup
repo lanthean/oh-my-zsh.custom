@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -sn ${HOME}/.oh-my-zsh.custom/custom ${HOME}/.oh-my-zsh/
