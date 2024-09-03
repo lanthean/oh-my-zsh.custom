@@ -1,0 +1,5 @@
+# ignore custom plugins from another repos
+custom/plugins/fast-syntax-highlighting
+custom/plugins/zsh-autocomplete
+custom/plugins/zsh-autosuggestions
+custom/plugins/zsh-syntax-highlighting
